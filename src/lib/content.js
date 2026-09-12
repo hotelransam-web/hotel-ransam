@@ -364,7 +364,7 @@ export const FACILITIES = [
     slug: "sweet-escape",
     name: "Sweet Escape — Rooftop Hall & Living room with Mini Pool",
     price: "₹10,000",
-    note: "Check-in & out at 12:00 Noon",
+    note: "Day shift 11:00 AM - 6:00 PM & Night shift 6:30 PM - 11:00 PM",
     description:
       "A private homestay experience with its own mini pool — seclusion, space, and a slower pace for families or special occasions.",
     highlights: [
