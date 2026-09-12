@@ -111,8 +111,7 @@ export default function Experiences() {
                   {SWEET_ESCAPE.name}
                 </h3>
                 <p className="mt-1 font-body text-sm font-light text-muted">
-                  A private hideaway with its own mini pool · Check-in &amp; out at
-                  12:00 Noon
+                  A private Day shift 11:00 AM - 6:00 PM & Night shift 6:30 PM - 11:00 PM with its own mini pool · 
                 </p>
                 <p className="mt-3 font-body text-[0.7rem] uppercase tracking-[0.18em] text-muted transition-colors group-hover:text-gold">
                   View details →
