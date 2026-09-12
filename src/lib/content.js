@@ -371,7 +371,8 @@ export const FACILITIES = [
       "Private mini pool",
       "Rooftop Hall",
       "Ideal for families",
-      "Day shift 11:00 AM - 6:00 PM & Night shift 6:30 PM - 11:00 PM",    ],
+      "Day shift 11:00 AM - 6:00 PM & Night shift 6:30 PM - 11:00 PM",
+    ],
   },
 ];
 
