@@ -270,8 +270,8 @@ export const FACILITIES = [
   {
     slug: "banquet-hall",
     name: "Banquet Hall",
-    price: "₹1,000 / hour",
-    note: "₹800 / hr with lunch or dinner",
+    price: "₹1,200 / hour",
+    //note: "₹800 / hr with lunch or dinner",
     description:
       "A flexible hall for weddings, receptions, and celebrations — configured for your guest list with catering support from our kitchen.",
     highlights: [
@@ -285,7 +285,7 @@ export const FACILITIES = [
     slug: "starlight-karaoke",
     name: "Starlight Karaoke",
     price: "₹1,200 / hour",
-    note: "₹1,000 / hr with lunch or dinner",
+    //note: "₹1,000 / hr with lunch or dinner",
     description:
       "Private karaoke sessions under soft lighting — perfect for birthdays, team outings, or an unforgettable night with friends.",
     highlights: [
@@ -362,14 +362,14 @@ export const FACILITIES = [
   },
   {
     slug: "sweet-escape",
-    name: "Sweet Escape — Homestay with Mini Pool",
+    name: "Sweet Escape — Roof-top & Living room with Mini Pool",
     price: "₹10,000",
     note: "Check-in & out at 12:00 Noon",
     description:
       "A private homestay experience with its own mini pool — seclusion, space, and a slower pace for families or special occasions.",
     highlights: [
       "Private mini pool",
-      "Homestay-style layout",
+      "Rooftop hall",
       "Ideal for families",
       "Check-in & out at 12:00 Noon",
     ],
